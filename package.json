@@ -34,7 +34,7 @@
     "lodash": "^4.4.0",
     "mongoose": "^4.4.3",
     "object-assign": "^4.0.1",
-    "passpor-local": "^1.0.0",
+    "passport-local": "^1.0.0",
     "passport": "^0.3.2",
     "passport-local-mongoose": "^4.0.0",
     "react": "^0.14.3",
@@ -49,8 +49,11 @@
   },
   "devDependencies": {
     "babel-eslint": "^5.0.0-beta6",
+    "connect-flash": "^0.1.1",
     "eslint": "^1.10.3",
     "eslint-plugin-react": "^3.12.0",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.16",
     "react-transform-hmr": "^1.0.1",
     "webpack-dev-middleware": "^1.4.0",
     "webpack-hot-middleware": "^2.6.0"
